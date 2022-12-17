@@ -3,3 +3,4 @@ tambah 1
 tambah 3
 tambah 4
 tambah 5
+tambah 6
