@@ -4,3 +4,4 @@ tambah 3
 tambah 4
 tambah 5
 tambah 6
+ini kita tambahkan di github remote
